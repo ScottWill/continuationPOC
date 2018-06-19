@@ -1,14 +1,19 @@
 {
-    "R23 12345": {
-        "Name": "John Doe",
-        "Address": "123 Main St"
-    },
-    "R23 45678": {
-        "Name": "Sally Smith",
-        "Address": "321 1st Ave"
-    },
-    "R23 98765": {
-        "Name": "Pat Johnson",
-        "Address": "55 Apple Blvd"
-    }
+    "policy": [
+        {
+            "Policy:" : "R23 12345",
+            "Name": "John Doe",
+            "Address": "123 Main St"
+        },
+        {
+            "Policy": "R23 45678",
+            "Name": "Sally Smith",
+            "Address": "321 1st Ave"
+        },
+        {
+            "Policy": "R23 98765",
+            "Name": "Pat Johnson",
+            "Address": "55 Apple Blvd"
+        }
+    ]
 }
