@@ -1,7 +1,22 @@
 {
-    "policy": {
-        "id:" : "R2312345",
-        "Name": "John Doe",
-        "Address": "123 Main St"
-    }
+    "policy": [
+        {
+            "id": 1,
+            "Policy:" : "12345abc",
+            "Name": "John Doe",
+            "Address": "123 Main St"
+        },
+        {
+            "id": 2,
+            "Policy:" : "498573ds",
+            "Name": "Sally Smith",
+            "Address": "345 1st Ave"
+        },
+        {
+            "id": 3,
+            "Policy:" : "23423423jh",
+            "Name": "Pat Johnson",
+            "Address": "35 Baker Blvd"
+        }
+    ]
 }
