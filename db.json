@@ -1,19 +1,7 @@
 {
-    "policy": [
-        {
-            "id:" : "R2312345",
-            "Name": "John Doe",
-            "Address": "123 Main St"
-        },
-        {
-            "id": "R2345678",
-            "Name": "Sally Smith",
-            "Address": "321 1st Ave"
-        },
-        {
-            "id": "R2398765",
-            "Name": "Pat Johnson",
-            "Address": "55 Apple Blvd"
-        }
-    ]
+    "policy": {
+        "id:" : "R2312345",
+        "Name": "John Doe",
+        "Address": "123 Main St"
+    }
 }
